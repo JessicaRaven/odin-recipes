@@ -1,2 +1,2 @@
 # odin-recipes
-Odin project reicpes project
+HTML website with Nori Sizzlepuffs amazing potions
