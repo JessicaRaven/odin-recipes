@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(235, 183, 209);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+h1,h2{
+    color: rgb(55, 7, 94);
+}
+h1{
+    font-size:larger;
+    font-weight:bold;
+}
+h2{font-size: large;}
