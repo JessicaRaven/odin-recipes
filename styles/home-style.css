@@ -7,15 +7,32 @@ h1{
     margin:1em;
 }
 
-.picture{
+.midcontent{
     margin:0px;
-    margin-left: 200px;
+    margin:0px;
 }
+
 
 .links{
     display:inline-block;
-    width:100px;
-    margin-right:10px;
+    margin-left:100px;
+    margin-top:0px;
+    vertical-align: top;
+    height:450px
+}
+
+.picture{
+    height: 450px;
+    margin-left: 150px;
+}
+
+a{
+    display:block;
+    background-color: rgb(173, 216, 218);
+    padding:1em;
+    color: rgb(52, 11, 83);
+    margin-bottom:110px;
+    margin-top:40px;
 }
 
 h1{
@@ -27,6 +44,4 @@ p{
     font-family:'Comic sans', sans-serif;
 }
 
-a{
-    color:blueviolet;
-}
+
